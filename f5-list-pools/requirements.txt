@@ -1,0 +1,9 @@
+Modules required for this script
+
+os
+sys
+socket
+json
+requests
+getpass
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
